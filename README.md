@@ -265,7 +265,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](./res/output_8_0.png)
 
 
 
@@ -311,7 +311,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](./res/output_10_0.png)
 
 
 
@@ -357,7 +357,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](./res/output_12_0.png)
 
 
 **3. Build learning curves for better explanation of your experiments.**
@@ -391,7 +391,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](./res/output_16_0.png)
 
 
 #### 2) Parameters: solver="sgd",  learning_rate="adaptive" 
@@ -421,7 +421,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](./res/output_19_0.png)
 
 
 #### 3) Parameters: solver="adam",  learning_rate="adaptive" 
@@ -451,7 +451,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](./res/output_22_0.png)
 
 
 #### 4) Parameters: solver="lbfgs",  learning_rate="constant" 
@@ -481,7 +481,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](./res/output_25_0.png)
 
 
 #### 5) Parameters: solver="sgd",  learning_rate="constant" 
@@ -511,7 +511,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](./res/output_28_0.png)
 
 
 #### 6) Parameters: solver="adam",  learning_rate="constant" 
@@ -541,7 +541,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](./res/output_31_0.png)
 
 
 #### 7) Parameters: solver="lbfgs",  learning_rate="invscaling" 
@@ -571,7 +571,7 @@ plt.show()
 ```
 
 
-![png](output_34_0.png)
+![png](./res/output_34_0.png)
 
 
 #### 8) Parameters: solver="sgd",  learning_rate="invscaling" 
@@ -601,7 +601,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](./res/output_37_0.png)
 
 
 #### 9) Parameters: solver="adam",  learning_rate="invscaling" 
@@ -631,7 +631,7 @@ plt.show()
 ```
 
 
-![png](output_40_0.png)
+![png](./res/output_40_0.png)
 
 
 #### In conclusion the parameters solver="sgd",  learning_rate="adaptive"  looks the best on the learning curve
